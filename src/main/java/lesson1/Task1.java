@@ -11,5 +11,5 @@ public class Task1 {
     public static int min(int a, int b, int c) {
         return 0;
     }
-    //test
+    //test test
 }
